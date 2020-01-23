@@ -32,3 +32,30 @@ print(Garrison4variable)
 
 var appState = false
 print(appState)
+
+//assignnment #2 True or False
+
+var appState = false
+print(appState)
+
+var numberOne = 5
+var numberTwo = 7
+
+var comparison = numberOne < numberTwo
+
+//
+
+var appState01 = true
+print (appState)
+
+var numberThree = 5
+var numberFour = 7
+
+var comparison01 = numberThree > numberFour
+
+//
+
+var numberFive = "5"
+var numberSix = "5"
+
+var comparison02 = numberFive == numberSix
